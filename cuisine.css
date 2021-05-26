@@ -1,0 +1,64 @@
+.navbar {
+    height: 100px;
+}
+
+#sidebar {
+    background: lightslategray;
+}
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+
+h2 {
+    background-color: lightslategray;
+    color: white;
+    font-size: 16px;
+    opacity: 0;
+}
+
+h3 {
+    background-color: lightslategray;
+    color: white;
+    font-size: 16px;
+    opacity: 0;
+}
+
+img {
+    transition: .5s ease;
+    height: 700px;
+}
+
+.navbar-brand {
+    color:white;
+}
+
+.sidebar-right {
+    background: lightgreen;
+    height: 700px;
+}
+/*
+.carousel-caption {
+    transition: .5s ease;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.carousel-caption:hover img {
+    opacity: 0.3;
+}
+
+.carousel-caption:hover h2 {
+    opacity: 1;
+}
+
+.carousel-caption:hover h3 {
+    opacity: 1;
+}
+*/
